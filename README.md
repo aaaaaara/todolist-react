@@ -1,4 +1,4 @@
-# React Boiler Plate Basic
+# [React JS Challenge] #5 To Do List code challenge
 
 ### Tech Stack
 - react (v17)
@@ -10,10 +10,9 @@
 - react-hook-form
 - framer-motion
 - Axios
-- storyBook (If you want install)
-
 ### Build
-
 - Web: npm start
-- StoryBook: npm run storybook
-
+### Challenege
+기본 강의 +
+- Allow users to create custom categories.
+- Implement persistance to localStorage.
